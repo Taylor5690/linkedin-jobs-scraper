@@ -1,0 +1,21 @@
+[
+    {
+        "job_id": "12345",
+        "job_link": "https://linkedin.com/jobs/view/12345",
+        "job_title": "Software Engineer",
+        "company_name": "Google",
+        "company_linkedin_url": "https://linkedin.com/company/google",
+        "job_location": "San Francisco, CA",
+        "job_published_at": "2025-01-01",
+        "job_posted_time": "1 day ago",
+        "job_salary_info": "Competitive",
+        "applicants_count": "100",
+        "benefits": "Healthcare, 401k",
+        "description_text": "As a Software Engineer at Google, you will be responsible for developing cutting-edge software solutions.",
+        "apply_link": "https://linkedin.com/jobs/view/12345",
+        "job_seniority_level": "Mid-Senior level",
+        "job_employment_type": "Full-time",
+        "job_function": "Engineering",
+        "job_industries": "Technology"
+    }
+]
