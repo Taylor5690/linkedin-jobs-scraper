@@ -1,0 +1,4 @@
+requests==2.26.0
+
+linkedin-jobs-scraper/.keep
+textPlaceholder for binary or non-code files (e.g., images).
