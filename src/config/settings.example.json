@@ -1,0 +1,9 @@
+{
+    "linkedin_base_url": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings",
+    "default_search_params": {
+        "job_title": "Software Engineer",
+        "location": "San Francisco, CA",
+        "company": "Google"
+    },
+    "output_formats": ["json", "csv", "xml"]
+}
